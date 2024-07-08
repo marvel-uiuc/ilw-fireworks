@@ -1,9 +1,9 @@
 {
-    "title": "<%= _.startCase(name.slice(4)) %>",
-    "tag": "<%= name %>",
-    "github": "https://github.com/web-illinois/<%= name %>/",
+    "title": "Fireworks",
+    "tag": "ilw-fireworks",
+    "github": "https://github.com/web-illinois/ilw-fireworks/",
     "type": "web component",
-    "element-name": "<%= name %>",
+    "element-name": "ilw-fireworks",
     "description": "Description for builder.",
     "toolkit-version": "",
     "production-version": "",

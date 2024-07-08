@@ -1,6 +1,6 @@
-# <%= name %>
+# ilw-fireworks
 
-Links: **[<%= name %> in Builder](https://builder3.toolkit.illinois.edu/component/<%= name %>/index.html)** | 
+Links: **[ilw-fireworks in Builder](https://builder3.toolkit.illinois.edu/component/ilw-fireworks/index.html)** | 
 [Illinois Web Theme](https://webtheme.illinois.edu/) | 
 [Toolkit Development](https://github.com/web-illinois/toolkit-management)
 
@@ -11,7 +11,7 @@ A 1-3 paragraph explanation of what the component does and how it presents.
 ## Code Examples
 
 ```html
-<<%= name %>></<%= name %>>
+<ilw-fireworks></ilw-fireworks>
 ```
 
 ## Accessibility Notes and Use
